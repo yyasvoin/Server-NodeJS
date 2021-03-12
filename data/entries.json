@@ -1,0 +1,23 @@
+[
+  {
+    "id": "c49206c9-267d-4731-bc6c-fe5f2c2a7e1d",
+    "name": "some string",
+    "email": "address@email.com",
+    "phoneNumber": 123,
+    "content": "User's message goes here"
+  },
+  {
+    "id": "1fabe4de-3e13-4d8b-9912-5c7ac793da5a",
+    "name": "flo",
+    "phoneNumber": "asd",
+    "email": "flo@gmail.com",
+    "content": "asdfgh"
+  },
+  {
+    "id": "581898b5-de40-496c-9ca1-ff5a741c07e4",
+    "name": "test",
+    "phoneNumber": "111",
+    "email": "test@test.com",
+    "content": "test"
+  }
+]
