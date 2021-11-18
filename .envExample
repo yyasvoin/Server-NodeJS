@@ -1,0 +1,4 @@
+JWT_SECRET="Your Secret"
+
+USERS_FILE_LOCATION = "UsersFileLocationPath"
+ENTRIES_FILE_LOCATION = "EntriesFileLocationPath"
